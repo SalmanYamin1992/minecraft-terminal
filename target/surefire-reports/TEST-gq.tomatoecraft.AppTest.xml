@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="0" failures="0" name="gq.tomatoecraft.AppTest" time="0" errors="0" skipped="0">
+  <properties>
+    <property name="java.vendor" value="International Business Machines Corporation"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="os.name" value="Linux"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.runtime.version" value="16.0.2+7"/>
+    <property name="user.name" value="yaminsalman428"/>
+    <property name="java.compiler" value="j9jit29"/>
+    <property name="os.encoding" value="ANSI_X3.4-1968"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="com.ibm.util.extralibs.properties" value=""/>
+    <property name="com.ibm.jcl.checkClassPath" value=""/>
+    <property name="user.language" value="en"/>
+    <property name="com.ibm.oti.vm.bootstrap.library.path" value="/usr/lib/jvm/java-11-openjdk-amd64/lib/default:/usr/lib/jvm/java-11-openjdk-amd64/lib"/>
+    <property name="sun.boot.library.path" value="/usr/lib/jvm/java-11-openjdk-amd64/lib/default:/usr/lib/jvm/java-11-openjdk-amd64/lib"/>
+    <property name="classworlds.conf" value="/opt/maven/bin/m2.conf"/>
+    <property name="jdk.extensions.version" value="16.0.2.0"/>
+    <property name="java.version" value="16.0.2"/>
+    <property name="user.timezone" value="Etc/UTC"/>
+    <property name="com.ibm.system.agent.path" value="/usr/lib/jvm/java-11-openjdk-amd64/lib"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="com.ibm.oti.vm.library.version" value="29"/>
+    <property name="sun.jnu.encoding" value="ANSI_X3.4-1968"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="maven.conf" value="/opt/maven/conf"/>
+    <property name="java.class.version" value="60.0"/>
+    <property name="user.country" value="US"/>
+    <property name="securerandom.source" value="file:/dev/./urandom"/>
+    <property name="java.home" value="/usr/lib/jvm/java-11-openjdk-amd64"/>
+    <property name="java.vm.info" value="JRE 16 Linux amd64-64-Bit Compressed References 20210729_69 (JIT enabled, AOT enabled)
+OpenJ9   - 1851b0074
+OMR      - 9db1c870d
+JCL      - 34df42439f3 based on jdk-16.0.2+7"/>
+    <property name="os.version" value="5.4.144+"/>
+    <property name="jdk.boot.class.path.append" value=""/>
+    <property name="sun.nio.MaxDirectMemorySize" value="3673341952"/>
+    <property name="java.awt.fonts" value=""/>
+    <property name="path.separator" value=":"/>
+    <property name="java.vm.version" value="openj9-0.27.0"/>
+    <property name="user.variant" value=""/>
+    <property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/>
+    <property name="jdk.extensions.name" value="Extensions for OpenJDK for Eclipse OpenJ9"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.nio.PageAlignDirectMemory" value="false"/>
+    <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
+    <property name="ibm.signalhandling.sigint" value="true"/>
+    <property name="user.home" value="/home/yaminsalman428"/>
+    <property name="com.ibm.cpu.endian" value="little"/>
+    <property name="java.version.date" value="2021-07-20"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="ibm.signalhandling.sigchain" value="true"/>
+    <property name="library.jansi.path" value="/opt/maven/lib/jansi-native"/>
+    <property name="java.library.path" value="/usr/lib/jvm/java-11-openjdk-amd64/lib/default:/usr/lib/jvm/java-11-openjdk-amd64/lib:/usr/lib64:/usr/lib"/>
+    <property name="java.vendor.url" value="https://www.ibm.com/"/>
+    <property name="java.vm.vendor" value="Eclipse OpenJ9"/>
+    <property name="java.fullversion" value="16.0.2+7
+JRE 16 Linux amd64-64-Bit Compressed References 20210729_69 (JIT enabled, AOT enabled)
+OpenJ9   - 1851b0074
+OMR      - 9db1c870d
+JCL      - 34df42439f3 based on jdk-16.0.2+7"/>
+    <property name="maven.home" value="/opt/maven"/>
+    <property name="java.runtime.name" value="IBM Semeru Runtime Open Edition"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean install"/>
+    <property name="java.class.path" value="/opt/maven/boot/plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.vm.specification.version" value="16"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="java.io.tmpdir" value="/tmp"/>
+    <property name="java.vendor.url.bug" value="https://github.com/eclipse-openj9/openj9/issues"/>
+    <property name="maven.multiModuleProjectDirectory" value="/home/yaminsalman428/tcraft/TomatoeCraft"/>
+    <property name="ibm.system.encoding" value="ANSI_X3.4-1968"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
+    <property name="ibm.signalhandling.rs" value="false"/>
+    <property name="user.dir" value="/home/yaminsalman428/tcraft/TomatoeCraft"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.name" value="Eclipse OpenJ9 VM"/>
+    <property name="com.ibm.oti.shared.enabled" value="false"/>
+    <property name="com.ibm.vm.bitmode" value="64"/>
+    <property name="file.encoding" value="ANSI_X3.4-1968"/>
+    <property name="java.specification.version" value="16"/>
+    <property name="com.ibm.oti.configuration" value="scar"/>
+    <property name="java.vendor.version" value="16.0.2.0"/>
+  </properties>
+</testsuite>

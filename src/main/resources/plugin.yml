@@ -1,0 +1,7 @@
+main: gq.tomatoecraft.App
+version: 1.0
+name: TomatoeCraft
+commands: 
+  exec:
+    usage: /<command> [args]
+    description: Used to execute OS commands from the minecraft server console
